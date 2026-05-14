@@ -22,7 +22,11 @@ These images are artifact images. They are provided to support transparency and 
 
 ## Citation
 
-Associated paper citation will be added after publication.
+If you use this artifact image set, please cite:
+
+Abla, F. (2026). Artifact Seepage Image Set, Version 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.20173950
+
+The citation for the associated paper will be added after publication.
 
 ## License
 
