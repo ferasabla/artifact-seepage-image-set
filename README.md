@@ -27,3 +27,8 @@ Associated paper citation will be added after publication.
 ## License
 
 This artifact image set is shared under the Creative Commons Attribution 4.0 International license, unless otherwise stated.
+## DOI
+
+This artifact seepage image set is archived on Zenodo:
+
+https://doi.org/10.5281/zenodo.20173950
