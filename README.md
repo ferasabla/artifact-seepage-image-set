@@ -22,7 +22,7 @@ These images are artifact images. They are provided to support transparency and 
 
 ## Citation
 
-If you use this image set, please cite the associated paper and this repository.
+Associated paper citation will be added after publication.
 
 ## License
 
