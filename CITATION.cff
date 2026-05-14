@@ -6,7 +6,8 @@ authors:
   - family-names: Abla
     given-names: Feras
 year: 2026
-version: "1.0.0"
+version: "1.0.1"
 repository-code: "https://github.com/ferasabla/artifact-seepage-image-set"
+doi: "10.5281/zenodo.20173950"
 license: "CC-BY-4.0"
 abstract: "This repository provides an artifact seepage image set used for positive-class training in an artifact-to-true seepage detection study. The images are artifact images and should not be interpreted as confirmed field inspection photographs."
