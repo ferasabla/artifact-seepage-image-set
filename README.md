@@ -24,7 +24,7 @@ These images are artifact images. They are provided to support transparency and 
 
 If you use this artifact image set, please cite:
 
-Abla, F. (2026). Artifact Seepage Image Set, Version 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.21287878
+Abla, F. (2026). Artifact Seepage Image Set, Version 3. Zenodo. https://doi.org/10.5281/zenodo.21288106
 
 The citation for the associated paper will be added after publication.
 
@@ -35,4 +35,4 @@ This artifact image set is shared under the Creative Commons Attribution 4.0 Int
 
 This artifact seepage image set is archived on Zenodo:
 
-https://doi.org/10.5281/zenodo.21287878
+https://doi.org/10.5281/zenodo.21288106
