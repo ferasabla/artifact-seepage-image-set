@@ -1,38 +1,34 @@
 # Artifact Seepage Image Set
 
-This repository provides the artifact seepage image set used for positive-class training in an artifact-to-true seepage detection study.
+This repository contains the artifact seepage RGB image set developed for the study:
 
-## Dataset description
-
-The image set contains artifact seepage images only. These images were used as positive-class training examples in the associated study. They should not be interpreted as confirmed field inspection photographs.
-
-In the associated workflow, artifact seepage images were used for model training, while development and final evaluation were conducted using true inspection images.
-
-## Repository contents
-
-The image set is available through the repository release:
-
-- `artifact_images.zip`: artifact seepage image set
-
-The release can be downloaded from the **Releases** section of this repository.
-
-## Important note
-
-These images are artifact images. They are provided to support transparency and reproducibility of the training data used in the study. They do not represent verified field observations of seepage.
+**Artifact-to-True Seepage Detection in RGB Images Using CLIP Representations**
 
 ## Citation
 
-If you use this artifact image set, please cite:
+If you use, reproduce, adapt, analyze, or include any images from this
+repository in academic or research work, please cite the associated
+publication and acknowledge this repository.
 
-Abla, F. (2026). Artifact Seepage Image Set, Version 3. Zenodo. https://doi.org/10.5281/zenodo.21288106
+### Associated publication
 
-The citation for the associated paper will be added after publication.
+F. Abla, O. Avci, M. H. Soleimani-Babakamali, A. Rababah, and J. Quaranta,
+"Artifact-to-True Seepage Detection in RGB Images Using CLIP Representations,"
+Journal of Infrastructure Intelligence and Resilience, 2026.
+
+[The final DOI and complete bibliographic information will be added here
+after publication.]
+
+### Dataset
+
+Artifact Seepage Image Set  
+https://github.com/ferasabla/artifact-seepage-image-set
 
 ## License
 
-This artifact image set is shared under the Creative Commons Attribution 4.0 International license, unless otherwise stated.
-## DOI
+The dataset is made available under the Creative Commons Attribution 4.0
+International (CC BY 4.0) license.
 
-This artifact seepage image set is archived on Zenodo:
-
-https://doi.org/10.5281/zenodo.21288106
+Users must provide appropriate attribution when reusing the licensed material.
+For scholarly use, we request citation of the associated publication and this
+repository.
